@@ -23,7 +23,7 @@
 </head>
 <body>
   <iframe 
-    src="https://app.powerbi.com/view?r=eyJrIjoiYjNkYjk2MWYtY2NhMC00NjM1LWIyOTYtZmIxMjU3NzNiNjRjIiwidCI6ImVkNjEyNDdjLTg5NDEtNDAxNy04YWNhLTA4NTRiZmY4MmI3YiJ9&navContentPaneEnabled=false&filterPaneEnabled=false#"
+    src="https://app.powerbi.com/view?r=eyJrIjoiYjNkYjk2MWYtY2NhMC00NjM1LWIyOTYtZmIxMjU3NzNiNjRjIiwidCI6ImVkNjEyNDdjLTg5NDEtNDAxNy04YWNhLTA4NTRiZmY4MmI3YiJ9&navContentPaneEnabled=false&filterPaneEnabled=false&toolbarHidden=true#"
     allowfullscreen>
   </iframe>
 </body>
