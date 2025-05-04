@@ -3,28 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <title>Dashboard TTZ</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      height: 100%;
-      overflow: hidden;
-      background: #fff;
-    }
-    iframe {
-      width: 100%;
-      height: 100%;
-      border: none;
-    }
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <iframe 
-    src="https://app.powerbi.com/view?r=eyJrIjoiY2FmZmJkM2EtYjYwMi00ODM2LWI0OGItM2I3ZGEyMjc3MWVhIiwidCI6ImVkNjEyNDdjLTg5NDEtNDAxNy04YWNhLTA4NTRiZmY4MmI3YiJ9&pageName=68a091ecb2e414632870"
-    allowfullscreen>
-  </iframe>
+  <p>Acesse o dashboard:</p>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiY2FmZmJkM2EtYjYwMi00ODM2LWI0OGItM2I3ZGEyMjc3MWVhIiwidCI6ImVkNjEyNDdjLTg5NDEtNDAxNy04YWNhLTA4NTRiZmY4MmI3YiJ9&pageName=68a091ecb2e414632870" target="_blank">
+    Clique aqui para abrir o Power BI
+  </a>
 </body>
 </html>
